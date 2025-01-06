@@ -3,12 +3,12 @@
 <p align="center">
 <img src='WEB PANEL/img/logo.png' style="height:100px;width:100px;" >
 </p>
-<h1 align=center>AIRAVAT</h1>
+<h1 align=center>Love Rat 2.0</h1>
 
 #### A multifunctional Android RAT with GUI based Web Panel without port forwarding.
 
 > [!IMPORTANT]
-> The source code has been published <a href="./ANDROID APP/AIRAVAT.swb" >here</a> use <a href="https://github.com/Sketchware-Pro/Sketchware-Pro" >Sketchware Pro</a> to view the source code.
+> The source code has been published <a href="./ANDROID APP/Love Rat 2.0.swb" >here</a> use <a href="https://github.com/Sketchware-Pro/Sketchware-Pro" >Sketchware Pro</a> to view the source code.
 
 
 <div align="center">
@@ -115,7 +115,7 @@
 </p>
 
 
-The use of the AIRAVAT is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read [LICENSE](LICENSE).
+The use of the Love Rat 2.0 is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read [LICENSE](LICENSE).
 
 
 
