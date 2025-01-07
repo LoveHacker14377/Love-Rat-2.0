@@ -10,7 +10,7 @@
 > [!IMPORTANT]
 > The source code has been published <a href="./ANDROID APP/Love Rat 2.0.swb" >here</a> use <a href="https://github.com/Sketchware-Pro/Sketchware-Pro" >Sketchware Pro</a> to view the source code.
 
-#### <a href="https://https://www.instagram.com/love__hacker__2.0/" >Follow Instagram</a>.
+#### <a href="https://www.instagram.com/love__hacker__2.0?igsh=c3lhbm0yejEwdHZ5" >Follow Instagram</a>.
 
 <div align="center">
 
